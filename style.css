@@ -1,0 +1,47 @@
+* {
+    margin: 10px;
+    padding: 10px;
+}
+
+.conteiner {
+    display: flex;
+    border: 2px solid;
+    border-color: rgb(241, 137, 0);
+    background-color: antiquewhite;
+    width: 250px;
+    height: 250px;
+}
+
+.item1 {
+    border: 2px solid;
+    border-color: blue;
+    background: aqua;
+    height: 40px;
+    width: 40px;
+
+
+}
+.item2 {
+    border: 2px solid;
+    border-color: blue;
+    background: aquamarine;
+    height: 40px;
+    width: 40px;
+
+}
+.item3 {
+    border: 2px solid;
+    border-color: blue;
+    background: aquamarine;
+    height: 40px;
+    width: 40px;
+
+}
+.item4 {
+    border: 2px solid;
+    border-color: blue;
+    background: aquamarine;
+    height: 40px;
+    width: 40px;
+
+}
