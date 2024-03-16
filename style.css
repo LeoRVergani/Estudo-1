@@ -5,7 +5,7 @@
 
 .conteiner {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: stretch;
     border: 2px solid;
     border-color: rgb(241, 137, 0);
